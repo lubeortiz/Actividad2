@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    font-size: 50px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 30px;
+}
+
+#caja1 {
+    background-color: red;
+    color: yellow;
+    margin-left: 40px;
+}
+
+#caja2 {
+    background-color: black;
+    color: white;
+}
+
+#caja3 {
+    background-color: red;
+    color: yellow;
+}
+
+#caja4 {
+    background-color: red;
+    color: yellow;
+}
